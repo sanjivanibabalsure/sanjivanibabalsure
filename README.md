@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjivani Babalsure
 - 🌱 Graduate 2025 B.Tech in CSE
-💻 Backend Developer in the Making
+- 💻 Backend Developer in the Making
 Passionate about building clean and efficient server-side applications using Java and Spring Boot.
 Enjoys connecting frontend to backend, designing REST APIs, and exploring databases like MySQL.
 Always learning new tools and sharpening problem-solving skills.
